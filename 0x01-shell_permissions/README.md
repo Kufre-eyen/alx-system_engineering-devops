@@ -1,1 +1,1 @@
-the command su betty switches the current user to betty
+The id -un prints the effective username of the current user

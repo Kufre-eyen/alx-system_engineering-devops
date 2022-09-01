@@ -1,1 +1,1 @@
-the command groups prints all groups that the current user is part of
+the command id prints the effective username of the current user

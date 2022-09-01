@@ -1,1 +1,1 @@
-The command id -un prints the effective username of the current user
+the command groups prints all groups that the current user is part of

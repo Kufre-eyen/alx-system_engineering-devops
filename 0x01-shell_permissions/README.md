@@ -1,1 +1,1 @@
-the command groups prints all the groups that the current user is part of
+the command chown changes the owner of the file hello to the user betty

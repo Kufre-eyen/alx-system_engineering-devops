@@ -1,1 +1,1 @@
-the command whoami prints the effective username of the current user
+the command chown changes the owner of the file hello to the user betty

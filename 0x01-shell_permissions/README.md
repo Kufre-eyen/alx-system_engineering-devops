@@ -1,1 +1,1 @@
-the command chown changes the owner of the file 
+the command touch hello creates an empty file called hello

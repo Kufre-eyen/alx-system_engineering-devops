@@ -1,1 +1,1 @@
-the script prints hello user
+the script prints all possible combinations oftwo letters except oo

@@ -1,1 +1,1 @@
-the script creates a local variable
+the script prints hello user

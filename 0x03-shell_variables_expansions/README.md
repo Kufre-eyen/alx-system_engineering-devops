@@ -1,1 +1,1 @@
-the script alias ls="rm *" changes ls to rm *
+the script echo hello user prints hello user

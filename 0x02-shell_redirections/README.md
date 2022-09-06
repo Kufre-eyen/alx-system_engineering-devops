@@ -1,1 +1,1 @@
-The script prints Hello World
+the string prints hello world

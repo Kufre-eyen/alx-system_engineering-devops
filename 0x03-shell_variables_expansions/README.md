@@ -1,1 +1,1 @@
-the script export PATH=$PATH:/action adds /action to the PATH
+the scrip export BEST="School" creates the variable

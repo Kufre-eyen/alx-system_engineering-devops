@@ -1,1 +1,1 @@
-the scrip export BEST="School" creates the variable
+the script prints the result of the code

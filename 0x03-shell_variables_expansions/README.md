@@ -1,1 +1,1 @@
-the script prints hello user
+script converts number from base 2 to 10

@@ -1,1 +1,1 @@
-script converts number from base 2 to 10
+the script list environment variables

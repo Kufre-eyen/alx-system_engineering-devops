@@ -1,1 +1,1 @@
-the script prints hello world
+the script delete every js file

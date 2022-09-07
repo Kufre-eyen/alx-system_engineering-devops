@@ -1,1 +1,1 @@
-the script list environment variables
+the script  prints the result of POWER divided by DIVIDE, followed by a new line.
